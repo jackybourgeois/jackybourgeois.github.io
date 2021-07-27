@@ -32,7 +32,7 @@ description: >-                        # used by seo meta and the atom feed
   Sustainable Design Engineering (SDE) of the Faculty of Industrial Design Engineering (IDE).
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: ''
+url: 'https://jackybourgeois.com'
 
 github:
   username: jackybourgeois             # change to your github username
