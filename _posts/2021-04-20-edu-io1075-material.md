@@ -9,7 +9,7 @@ mermaid: true
 pin: false
 ---
 
-As we wrap up [IO1075](/posts/io1075/), it is time to share some of the material produced for the course.
+As we wrap up [IO1075](/posts/edu-io1075), it is time to share some of the material produced for the course.
 
 ## Module 3: Networking Technologies
 
