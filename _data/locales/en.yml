@@ -11,10 +11,10 @@ layout:
 tabs:
   # format: <filename_without_extension>: <value>
   home: Home
-  categories: Categories
-  tags: Tags
-  archives: Archives
-  about: About
+  categories: Activites
+  tags: Topics
+  archives: Timeline
+  about: Vision
 
 # text displayed in the search bar
 search:
@@ -23,7 +23,7 @@ search:
 
 panel:
   lastmod: Recent Update
-  trending_tags: Trending Tags
+  trending_tags: Trending Topics
   toc: Contents
 
 #  The liquid date format › http://strftime.net/

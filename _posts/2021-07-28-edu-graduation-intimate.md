@@ -1,8 +1,8 @@
 ---
-title: "Graduation Opportunity: Explore the Design Space for Intimate Technologies"
+title: "🚩 Graduation Opportunity: Explore the Design Space for Intimate Technologies"
 author: "Jacky Bourgeois"
 date: 2021-07-27 11:33:00 +0000
-categories: [Education,Graduation Opportunities]
+categories: [🚩 Vacancies]
 tags: [Data Donation,Master,IDE]
 math: true
 mermaid: true

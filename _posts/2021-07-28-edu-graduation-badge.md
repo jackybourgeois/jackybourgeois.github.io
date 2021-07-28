@@ -1,8 +1,8 @@
 ---
-title: "Graduation Opportunity: Data Donor’s Badges for Behaviour Sharing"
+title: "🚩 Graduation Opportunity: Data Donor’s Badges for Behaviour Sharing"
 author: "Jacky Bourgeois"
 date: 2021-07-27 11:33:00 +0000
-categories: [Education,Graduation Opportunities]
+categories: [🚩 Vacancies]
 tags: [Data Donation,Master,IDE]
 math: true
 mermaid: true

@@ -1,17 +1,19 @@
 ---
-title: "Thematic Collection: Perspectives on Data-Enabled Design"
+title: "📅 Call for Paper AIEDAM Thematic Collection - Perspectives on Data-Enabled Design"
 author: "Jacky Bourgeois"
 date: 2020-08-15 11:33:00 +0000
-categories: [Scientific Community,Special Issues]
+categories: [📅 Events]
 tags: [AIEDAM,Data-Enabled Design]
 math: true
 mermaid: true
 pin: false
 image:
-  src: /media/aiedam.png
+  src: /assets/img/aiedam.png
   width: 850
   height: 585
 ---
+
+**This call is now closed**
 
 Together with Maaike Kleinsmann, we prepare a Special Issue on Data-Enabled Design for the journal Artificial Intelligence for Engineering Design, Analysis and Manufacturing (AI-EDAM).
 

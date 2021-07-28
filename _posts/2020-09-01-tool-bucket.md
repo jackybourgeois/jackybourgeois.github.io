@@ -1,14 +1,14 @@
 ---
-title: "Bucket"
+title: "🛠️ Bucket: A cloud application for Data-Centric Design processes"
 author: "Jacky Bourgeois"
 date: 2020-09-01 11:33:00 +0000
-categories: [Research,Tools]
+categories: [Research,🛠️ Tools]
 tags: [Bucket,Open-Source]
 math: true
 mermaid: true
 pin: false
 image:
-  src: /media/bucket.png
+  src: /assets/img/bucket.png
   width: 850
   height: 585
 ---

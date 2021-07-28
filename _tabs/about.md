@@ -13,3 +13,20 @@ My passion lies in the endless possibilities of data, this digital trace that ev
 At the intersection of Design and Human-Computer Interaction, I build tools that help designers use human behaviour data in their design process effectively and responsibly.
 
 I define Data-Centric Design as a research field at the intersection of Data Science and Human-Centred Design. I hypothesise that the central use of behavioural data in Human-Centred Design can turn challenges and limitations of both fields into flourishing ethical and collaborative opportunities.
+
+# Research
+
+## Research Programs
+
+### Data Donation
+
+### Data Story Telling
+
+### Remote Presence
+
+
+# Education
+
+
+
+# Resumé

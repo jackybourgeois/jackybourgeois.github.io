@@ -9,7 +9,7 @@ baseurl: ''
 
 # The language of the site layout › http://www.lingoes.net/en/translator/langcode.htm
 # Go to folder '_data/locales' to check the available language options
-lang: en-GB
+lang: en
 
 # The lang attribute of HTML › http://www.lingoes.net/en/translator/langcode.htm
 # We can specify a language different from the layout of the content.
@@ -32,7 +32,7 @@ description: >-                        # used by seo meta and the atom feed
   Sustainable Design Engineering (SDE) of the Faculty of Industrial Design Engineering (IDE).
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: 'https://jackybourgeois.com'
+url: 'https://localhost:4000'
 
 github:
   username: jackybourgeois             # change to your github username
