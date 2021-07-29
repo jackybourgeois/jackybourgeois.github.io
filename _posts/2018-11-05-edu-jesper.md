@@ -3,7 +3,7 @@ title: "🎓 'Flowy: Designing an assistive wearable technology for children wit
 author: "Jacky Bourgeois"
 date: 2018-11-05 19:05:00 +0000
 categories: [Education,🎓Graduation Projects]
-tags: [ADHD,Wearable,Vibrations,Attention,Behaviour Change,Master,IDE]
+tags: [Master,IDE,💰PilotFish,ADHD,Wearable,Vibrations,Attention,Behaviour Change]
 math: true
 mermaid: true
 pin: false

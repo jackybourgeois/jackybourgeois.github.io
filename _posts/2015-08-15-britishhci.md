@@ -3,7 +3,7 @@ title: "📜 BritishHCI'15 Understanding and Supporting Emerging Domestic Energy
 author: "Jacky Bourgeois"
 date: 2015-05-15 19:05:00 +0000
 categories: [Research,📜 Publications]
-tags: [BritishHCI, Workshop]
+tags: [📘Workshop,🎯BritishHCI]
 math: true
 mermaid: true
 pin: false

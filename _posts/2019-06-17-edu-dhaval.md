@@ -3,7 +3,7 @@ title: "🎓 'A Day in a Wheelchair' by Dhaval Shah"
 author: "Jacky Bourgeois"
 date: 2019-06-17 19:05:00 +0000
 categories: [Education,🎓Graduation Projects]
-tags: [Wheelchair,Earable,Sensor Fusion,Wearable,Posture,Classification,Activity Tracker,Master,IDE]
+tags: [Master,EEMCS,Wheelchair,Earable,Sensor Fusion,Wearable,Posture,Classification,Activity Tracker]
 math: true
 mermaid: true
 pin: false

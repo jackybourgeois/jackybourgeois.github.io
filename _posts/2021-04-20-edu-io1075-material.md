@@ -3,7 +3,7 @@ title: "🪵 Video Material from IO1075: Software-Based Products"
 author: "Jacky Bourgeois"
 date: 2021-04-20 14:30:00 +0000
 categories: [Education, 🪵 Teaching Material]
-tags: [IO1075,Open-Source]
+tags: [Open-Source,📖IO1075]
 math: true
 mermaid: true
 pin: false

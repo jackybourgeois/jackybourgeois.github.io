@@ -3,7 +3,7 @@ title: "🚧 DDfV Grant on 'Responsible Internet of Things (IoT) Data Research'"
 author: "Jacky Bourgeois"
 date: 2018-09-15 19:05:00 +0000
 categories: [Research, 🚧 Projects]
-tags: [Data-Enabled,Informed Consent,IoT,WiFi Data]
+tags: [Data-Enabled Design,Informed Consent,Internet of Things,📊WiFi Data]
 math: true
 mermaid: true
 pin: false

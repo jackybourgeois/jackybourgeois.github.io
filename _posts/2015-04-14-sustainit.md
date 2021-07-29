@@ -3,7 +3,7 @@ title: "📜 SustainIT'15 Interactive demand shifting: in the context of emergin
 author: "Jacky Bourgeois"
 date: 2015-04-14 19:05:00 +0000
 categories: [Research,📜 Publications]
-tags: [SustainIT,Energy,Participatory Data Analysis, Electric Vehicle, Conference]
+tags: [📗Conference,🎯SustainIT,Energy,Participatory Data Analysis, Electric Vehicle]
 math: true
 mermaid: true
 pin: false

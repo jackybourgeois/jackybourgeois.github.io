@@ -3,7 +3,7 @@ title: "📅 Call for Paper AIEDAM Thematic Collection - Perspectives on Data-En
 author: "Jacky Bourgeois"
 date: 2020-08-15 11:33:00 +0000
 categories: [📅 Events]
-tags: [AIEDAM,Data-Enabled Design]
+tags: [🎯AIEDAM,Data-Enabled Design]
 math: true
 mermaid: true
 pin: false

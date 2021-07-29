@@ -3,7 +3,7 @@ title: "📜 Sustainable Load Shifting in the Context of Domestic Energy Generat
 author: "Jacky Bourgeois"
 date: 2013-09-08 19:05:00 +0000
 categories: [Research,📜 Publications]
-tags: [UbiComp,Energy,Participatory Data Analysis, Solar Panel, Doctoral School]
+tags: [📘Doctoral School, 🎯UbiComp,Energy,Participatory Data Analysis, Solar Panel]
 math: true
 mermaid: true
 pin: false

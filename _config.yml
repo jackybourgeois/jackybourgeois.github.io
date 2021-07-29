@@ -169,8 +169,8 @@ jekyll-archives:
     category: category
     tag: tag
   permalinks:
-    tag: /tags/:name/
-    category: /categories/:name/
+    tag: /topics/:name/
+    category: /activities/:name/
 
 # Outdated configuration warning
 outdated: '-- Missing configuration options! --'

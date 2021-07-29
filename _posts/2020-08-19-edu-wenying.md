@@ -3,7 +3,7 @@ title: "🎓 'Tailoring personalized breathing rhythms of a Sleep Robot: An inte
 author: "Jacky Bourgeois"
 date: 2020-08-19 19:05:00 +0000
 categories: [Education,🎓Graduation Projects]
-tags: [Insomnia,Self-experiment,Breathing rhythms,Personalization,Master,IDE]
+tags: [Master,IDE,💰Somnox,Insomnia,Self-experiment,Personalization]
 math: true
 mermaid: true
 pin: false

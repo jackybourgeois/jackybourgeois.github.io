@@ -3,7 +3,7 @@ title: "🎓 'The making of a smart pillow' by Tjapko Vermeulen"
 author: "Jacky Bourgeois"
 date: 2020-06-10 19:05:00 +0000
 categories: [Education,🎓Graduation Projects]
-tags: [Pillow,Data-Enabled Design,Master,IDE]
+tags: [Master,IDE,Object with Intent,Pillow,Data-Enabled Design]
 math: true
 mermaid: true
 pin: false

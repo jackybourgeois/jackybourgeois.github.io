@@ -3,7 +3,7 @@ title: "📅 DatEthics - MobileHCI'20 Workshop"
 author: "Jacky Bourgeois"
 date: 2020-09-24 12:30:00 +0000
 categories: [📅 Events]
-tags: [MobileHCI,Ethics]
+tags: [🎯MobileHCI,Ethics]
 math: true
 mermaid: true
 pin: false

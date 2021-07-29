@@ -3,7 +3,7 @@ title: "📜 Digital Future Information Interfaces for Domestic Energy Microgene
 author: "Jacky Bourgeois"
 date: 2012-10-15 19:05:00 +0000
 categories: [Research,📜 Publications]
-tags: [Digital Future, Energy,Participatory Data Analysis, Solar Panel, Conference]
+tags: [📗Conference,🎯Digital Future, Energy,Participatory Data Analysis, Solar Panel]
 math: true
 mermaid: true
 pin: false

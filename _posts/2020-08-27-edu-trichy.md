@@ -3,7 +3,7 @@ title: "🎓 'Design of Midway Energy (Middleware System) as part of Illuminator
 author: "Jacky Bourgeois"
 date: 2020-08-27 19:05:00 +0000
 categories: [Education,🎓Graduation Projects]
-tags: [Energy,Network,Middleware,MQTT,IoT,Raspberry Pi,Master,IDE]
+tags: [Master,EEMCS,Illuminator,Energy,Network,Middleware,MQTT,Internet of Things,Raspberry Pi]
 math: true
 mermaid: true
 pin: false

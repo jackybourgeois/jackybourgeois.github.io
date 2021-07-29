@@ -3,7 +3,7 @@ title: "🎓 'Service Design for Supportive Health Systems' by Javier Poves"
 author: "Jacky Bourgeois"
 date: 2021-05-10 19:05:00 +0000
 categories: [Education,🎓Graduation Projects]
-tags: [Service Design,Strategic Design,E-health,Nutrition,Master,IDE]
+tags: [Master,IDE,💰Clear,Service Design,Strategic Design,E-health,Nutrition]
 math: true
 mermaid: true
 pin: false

@@ -3,7 +3,7 @@ title: "📜 PLATE'17 On the meaningfulness of data in product design for lifeti
 author: "Jacky Bourgeois"
 date: 2017-09-15 19:05:00 +0000
 categories: [Research,📜 Publications]
-tags: [PLATE,Conference]
+tags: [📗Conference,🎯PLATE]
 math: true
 mermaid: true
 pin: false

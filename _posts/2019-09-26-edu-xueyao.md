@@ -3,7 +3,7 @@ title: "🎓 'Understanding the values in the context of Wi-Fi access data' by X
 author: "Jacky Bourgeois"
 date: 2019-09-26 19:05:00 +0000
 categories: [Education,🎓Graduation Projects]
-tags: [Wi-Fi Data, Data-Centric research,Value-Driven Design,Ethics,Master,IDE]
+tags: [Master,IDE,📊WiFi Data, Data-Centric Design,Value-Sensitive Design,Ethics]
 math: true
 mermaid: true
 pin: false

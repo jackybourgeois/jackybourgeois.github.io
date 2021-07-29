@@ -3,7 +3,7 @@ title: "📅 Exhibition - Prototyping Connected Product"
 author: "Jacky Bourgeois"
 date: 2019-10-23 11:33:00 +0000
 categories: [📅 Events]
-tags: [ID5415,Wheelchair,Exhibition,Prototyping]
+tags: [📖ID5415,Wheelchair,Exhibition,Prototyping]
 math: true
 mermaid: true
 pin: false

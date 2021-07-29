@@ -3,7 +3,7 @@ title: "🎓 'Not so big: Making data less overwhelming for designers' by Jiahao
 author: "Jacky Bourgeois"
 date: 2020-11-23 19:05:00 +0000
 categories: [Education,🎓Graduation Projects]
-tags: [Big Data,Design Tool,Data Overwhelmingness,Master,IDE]
+tags: [Master,IDE,📊Data,Design Tool,📊Data Overwhelmingness]
 math: true
 mermaid: true
 pin: false

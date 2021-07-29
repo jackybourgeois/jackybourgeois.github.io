@@ -1,8 +1,10 @@
 ---
-title: About
+title: Vision
 icon: fas fa-info
-order: 4
+order: 1
 ---
+
+![Data-Centric Design Narrative](/assets/img/dcd-narrative.png){: .right width="200" height="300" }
 
 In my everyday life, I thrive for healthy food, eco-friendly behaviour and fair distribution of value.
 

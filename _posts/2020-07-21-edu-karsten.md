@@ -3,7 +3,7 @@ title: "🎓 'Digital lockout routines' by Karsten Bakker"
 author: "Jacky Bourgeois"
 date: 2020-07-21 19:05:00 +0000
 categories: [Education,🎓Graduation Projects]
-tags: [Master,IDE]
+tags: [Master,IDE,💰TWTG]
 math: true
 mermaid: true
 pin: false

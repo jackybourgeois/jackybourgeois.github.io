@@ -3,7 +3,7 @@ title: "🚩 PhD Vacancy: Intelligent Tools for Responsible Data-Driven Design"
 author: "Jacky Bourgeois"
 date: 2019-10-23 19:05:00 +0000
 categories: [🚩 Vacancies]
-tags: [Data Donation,PhD]
+tags: [PhD,IDE,📊Data Donation]
 math: true
 mermaid: true
 pin: false

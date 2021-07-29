@@ -83,5 +83,5 @@ post:
 
 # categories page
 categories:
-  category_measure: categories
+  category_measure: activities
   post_measure: posts

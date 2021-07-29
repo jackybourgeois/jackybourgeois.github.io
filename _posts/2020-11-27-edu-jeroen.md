@@ -3,7 +3,7 @@ title: "🎓 'Blockchain as a Solution to Collective Servitization' by Jeroen va
 author: "Jacky Bourgeois"
 date: 2020-11-27 19:05:00 +0000
 categories: [Education,🎓Graduation Projects]
-tags: [Circular Economy,Blockchain,Servitization,Product-service-system,Master,IDE]
+tags: [Master,IDE,Circular Economy,Blockchain,Servitization,Product-Service-System]
 math: true
 mermaid: true
 pin: false

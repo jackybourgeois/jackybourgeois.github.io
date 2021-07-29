@@ -3,7 +3,7 @@ title: "🎓 'Explore the untapped digital data of neglected tropical disease, a
 author: "Jacky Bourgeois"
 date: 2019-08-30 19:05:00 +0000
 categories: [Education,🎓Graduation Projects]
-tags: [Neglected tropical disease,Schistosomiasis,Data footprint,Strategic action,Sustainable interventions,Scalable impact,Master,IDE]
+tags: [Master,IDE,Neglected Tropical Disease,Schistosomiasis,📊Data Journey,Strategic Action,Sustainable Interventions,Scalable Impact]
 math: true
 mermaid: true
 pin: false
