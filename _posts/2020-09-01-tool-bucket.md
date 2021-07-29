@@ -17,3 +17,9 @@ Designers prototype their design to evaluate the feasibility, desirability and v
 
 
 <a href="https://dwd.tudelft.nl/bucket/about" target="_blank">Link to Bucket</a>
+
+Here is a quick tour:
+
+<div style="text-align:center">
+  <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/H2Ogmi1J-P8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
