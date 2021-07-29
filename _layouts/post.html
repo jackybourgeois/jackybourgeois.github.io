@@ -71,7 +71,7 @@ layout: default
         <div class="post-meta mb-3">
           <i class="far fa-folder-open fa-fw mr-1"></i>
           {% for category in page.categories %}
-            <a href='{{ site.baseurl }}/categories/{{ category | slugify | url_encode }}/'>{{ category }}</a>
+            <a href='{{ site.baseurl }}/activities/{{ category | slugify | url_encode }}/'>{{ category }}</a>
             {%- unless forloop.last -%}, {%- endunless -%}
           {% endfor %}
         </div>
