@@ -1,6 +1,6 @@
 ---
-title: "📙 Data-Centric Design in the Delft Design Guide"
-author: "Jacky Bourgeois"
+title: "📜 Data-Centric Design in the Delft Design Guide"
+author: "**Jacky Bourgeois**, Gerd Kortuem"
 date: 2020-07-08 11:33:00 +0000
 categories: [Research,📜 Publications]
 tags: [📙Book,Data-Centric Design]

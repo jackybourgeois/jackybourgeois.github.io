@@ -1,5 +1,5 @@
 ---
-title: "📜 SustainIT'15 Interactive demand shifting: in the context of emerging energy technologies"
+title: "📜 SustainIT'15 'Interactive demand shifting'"
 author: "Jacky Bourgeois"
 date: 2015-04-14 19:05:00 +0000
 categories: [Research,📜 Publications]
@@ -9,9 +9,8 @@ mermaid: true
 pin: false
 ---
 
-A conference paper at SustainIT'15.
 
->We are entering a key time period for home energy. While ubiquitous computing takes an increasing space in our daily life, emerging energy technologies including local generation and electric vehicle are leaving the stage of pioneer's users to become more common. This research highlights the potential of new energy behavior supported by digital tools in the context of domestic solar electricity generation.
+We are entering a key time period for home energy. While ubiquitous computing takes an increasing space in our daily life, emerging energy technologies including local generation and electric vehicle are leaving the stage of pioneer's users to become more common. This research highlights the potential of new energy behavior supported by digital tools in the context of domestic solar electricity generation.
 
 [https://doi.org/10.1109/sustainit.2015.7101376](https://doi.org/10.1109/sustainit.2015.7101376)
 

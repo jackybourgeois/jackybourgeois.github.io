@@ -1,5 +1,5 @@
 ---
-title: "🚩 PhD Vacancy: Intelligent Tools for Responsible Data-Driven Design"
+title: "🚩 [Closed] Intelligent Tools for Responsible Data-Driven Design"
 author: "Jacky Bourgeois"
 date: 2019-10-23 19:05:00 +0000
 categories: [🚩 Vacancies]

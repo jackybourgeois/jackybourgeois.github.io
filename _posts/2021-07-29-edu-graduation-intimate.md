@@ -1,5 +1,5 @@
 ---
-title: "🚩 Graduation Opportunity: Exploring the Design Space of Menstrual Tracking Technologies"
+title: "🚩 [Open] Exploring the Design Space of Menstrual Tracking Technologies"
 author: "Jacky Bourgeois"
 date: 2021-07-29 09:00:00 +0000
 categories: [🚩 Vacancies]

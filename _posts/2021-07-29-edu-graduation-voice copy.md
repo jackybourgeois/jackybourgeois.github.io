@@ -1,7 +1,7 @@
 ---
-title: "🚩 Graduation Opportunity: Public Installation for Voice Data Donation on Campus"
+title: "🚩 [Open] Public Installation for Voice Data Donation on Campus"
 author: "Jacky Bourgeois"
-date: 2021-07-27 09:00:00 +0000
+date: 2021-07-29 09:00:00 +0000
 categories: [🚩 Vacancies]
 tags: [Master,IDE,📊Data Donation]
 math: true
@@ -13,8 +13,6 @@ image:
   height: 585
   desc: Photo by Bence Boros on Unsplash
 ---
-
-<em>Photo by Bence Boros on Unsplash.</em>
 
 **Open for application!**
 

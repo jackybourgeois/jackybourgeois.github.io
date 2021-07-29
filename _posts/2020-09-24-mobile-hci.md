@@ -1,6 +1,6 @@
 ---
 title: "📅 DatEthics - MobileHCI'20 Workshop"
-author: "Jacky Bourgeois"
+author: "**Jacky Bourgeois**, Aaron Ding, Jered Vroon, Ella Peltonen"
 date: 2020-09-24 12:30:00 +0000
 categories: [📅 Events]
 tags: [🎯MobileHCI,Ethics]
