@@ -1,0 +1,25 @@
+---
+layout: page
+---
+
+{{ content }}
+
+<h1>Notes ({{site.notes.size}})</h1>
+
+<div id="notes" class="pl-xl-2">
+    {% for note in site.notes %}
+    {% if forloop.first %}
+    <ul class="list-unstyled">
+    {% endif %}
+        {% if note.backlinks.size == 0 %}
+        <li>
+            <a href="{{ note.url | relative_url }}">{{ note.title }}</a>
+        </li>
+        {% endif %}
+    {% if forloop.last %}
+    </ul>
+    {% endif %}
+    {% endfor %}
+</div>
+
+{% include chart.html %}

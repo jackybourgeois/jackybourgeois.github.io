@@ -1,6 +1,6 @@
 ---
 layout: default
-# The posts' layout
+# The notes' layout
 ---
 
 <div class="row">
@@ -14,9 +14,6 @@ layout: default
       <div class="post-meta text-muted d-flex flex-column">
         <!-- Published date and author -->
         <div>
-          <span class="semi-bold" style="display: inline-block; max-width: 600px;">
-            {{ page.author | default: site.social.name | markdownify }}
-          </span>
           {% capture _preposition %}{{ site.data.locales[site.lang].post.published | default: 'on' }}{% endcapture %}
           {% include timeago.html date=page.date tooltip=true preposition=_preposition %}
         </div>
@@ -33,33 +30,26 @@ layout: default
           <!-- read time -->
           {% include read-time.html content=content prompt=true %}
 
-          <!-- page views -->
-          {% if site.google_analytics.pv.proxy_endpoint or site.google_analytics.pv.cache_path %}
-          <span id="pv" class="pageviews">
-            <i class="fas fa-spinner fa-spin fa-fw"></i>
-          </span>
-          {{ site.data.locales[site.lang].post.pageview_measure | default: "views" }}
-          {% endif %}
-
         </div>
 
       </div> <!-- .post-meta -->
 
       <div class="post-content">
 
-        {% if page.image.src %}
-          <img src="{{ page.image.src }}"
-            class="preview-img"
-            style="margin-bottom:5px"
-            alt="{{ page.image.alt | default: "Preview Image" }}"
-            {% if page.image.width %}width="{{ page.image.width }}"{% endif %}
-            {% if page.image.height %}height="{{ page.image.height }}"{% endif %}>
-            {% if page.image.desc %}
-            <em style="margin-bottom:40px">{{ page.image.desc }}</em>
-            {% endif %}
-        {% endif %}
+        <em>
+          {% if page.categories.size == 2 and page.categories[1] == "Literature" %}
+          {% assign ref = page.id | replace: "/notes/", "" %}
+          {% reference ref %}
+          {% endif %}
+        </em>
 
         {{ content }}
+
+        {% if page.categories.size == 2 and page.categories[1] == "Ideas" %}
+
+        <h2>References</h2>
+        {% bibliography --cited %}
+        {% endif %}
 
       </div>
 
@@ -105,8 +95,6 @@ layout: default
           {% endif %}
           </div>
 
-          {% include post-sharing.html %}
-
         </div><!-- .post-tail-bottom -->
 
       </div><!-- div.post-tail -->
@@ -132,13 +120,7 @@ layout: default
   <div class="col-12 col-lg-11 col-xl-8">
     <div id="post-extend-wrapper" class="pl-1 pr-1 pl-sm-2 pr-sm-2 pl-md-4 pr-md-4">
 
-    {% include related-posts.html %}
-
-    {% include post-nav.html %}
-
-    {% if site.disqus.comments and page.comments %}
-      {% include disqus.html %}
-    {% endif %}
+    {% include backlinks.html %}
 
     </div> <!-- #post-extend-wrapper -->
 

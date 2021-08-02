@@ -1,0 +1,26 @@
+<div id="related-posts" class="mt-5 mb-2 mb-sm-4">
+    <h3 class="pt-2 mt-1 mb-4 ml-1" data-toc-skip>Links to this note</h3>
+    <div class="card-deck mb-4">
+        {% for backlink in page.backlinks %}
+        {% for note in site.notes %}
+        {% assign backlink_id = '/notes/' | append: backlink %}
+        {% if note.id == backlink_id %}
+        <div class="card">
+            <a href="{{ site.baseurl }}/notes/{{ backlink | slugify | url_encode }}">
+                <div class="card-body">
+                    {% include timeago.html date=note.date class="small" %}
+                    <h3 class="pt-0 mt-1 mb-3" data-toc-skip>{{ note.title }}</h3>
+                    <div class="text-muted small">
+                        <p>
+                            {% include no-linenos.html content=note.content %}
+                            {{ content | markdownify | strip_html | truncate: 200 }}
+                        </p>
+                    </div>
+                </div>
+            </a>
+        </div>
+        {% endif %}
+        {% endfor %}
+        {% endfor %}
+    </div> <!-- .card-deck -->
+</div> <!-- #related-posts -->
