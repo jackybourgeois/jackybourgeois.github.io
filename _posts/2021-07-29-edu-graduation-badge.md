@@ -46,3 +46,5 @@ Designerly data donation is an approach for data collection in-the wild, where p
 ## Contact
 
 For more information and application, please contact [Alejandra Gomez Ortega](mailto:A.GomezOrtega@tudelft.nl).
+
+[Link to PDF](/assets/pdf/graduation-project-badge.pdf)
