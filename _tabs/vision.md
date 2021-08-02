@@ -20,15 +20,54 @@ I define Data-Centric Design as a research field at the intersection of Data Sci
 
 ## Research Programs
 
-### Data Donation
-
-### Data Story Telling
-
-### Remote Presence
-
 
 # Education
 
 
-
 # Resumé
+
+### Degrees and Postgraduate Qualifications
+
+- 2020 UTQ University Teaching Qualification, TU Delft (NL)
+- 2016 Ph.D. In Computer Science, The Open University (UK) / University of Rennes 1 (FR) 
+- 2012 MSc in Computing, Graduate School of Engineering, University of Rennes 1 (FR)
+
+### Positions 
+
+- 2018 – now		Tenure-Track Assistant Professor, Delft University of Technology, NL
+- 2016 (2 years)	Postdoc Researcher, Delft University of Technology, NL
+- 2014 (3 months)	Commercial Intern, National Energy Foundation (NEF), UK
+- 2012 (6 months)	Research Intern, The Open University, Milton Keynes, UK
+- 2011 (4 months)	Research Intern, INRIA Rennes, France
+- 2010 (3months)	Research Intern, Sens-Innov, Rennes, France
+- 2009 (5 months)	Analyst and Development Intern, Axper Inc, Canada
+
+### Research Projects
+
+- D-Code: Fundamentals of Design Competence for our Digital Future [H2020 ITN 2021+]
+- IoT Rapid Proto Lab: a Erasmus+ project exploring the interdisciplinary teaching of IoT  [2018-2021].
+- Bucket: a data platform for designers which facilitates data-driven design prototyping.
+- MK:Smart: an integrated innovation and support programme leveraging large-scale city data to drive economic growth (www.mksmart.org). [funded by the Higher Education Funding Council for England; 1 Jan 2014 – 30 June 2017].
+- Energy Balanced Living: analyses longitudinal energy data from citizens to inform design of human-centred electricity Demand-Shifting methods in the context of domestic electricity generation [funded by E.On & INRIA France; 1 Jan 2012 – Dec 31 2014, Principal Investigator].
+
+### Teaching
+
+- Coordinator – Software-Based Products (IO1075)
+- Coordinator – Prototyping Connected Products (ID5415)
+- Designing Data-Driven Products (ID5452A)
+- Developing Data-Driven Products (ID5452B)
+- Software (IO3040)
+- Smart System Technologies (ID4175 AED SST)
+
+### Publication
+
+[See list of Publications](/activities/publications)
+
+
+### Other Activities
+
+- Reviewer: CHI 2016, CHI 2017, UbiComp 2016, IMWUT 2017, IoT 2016, TMCE 2017
+- Languages: French (Native), English (Fluent), German (Beginner), Dutch (Beginner)
+- Student Volunteer at UbiComp in 2013 and 2014. Travel Grant for UbiComp 2013
+- Internal Open University poster competition award
+- Participated in 4L Trophy 2011, a humanitarian race in the Moroccan desert
