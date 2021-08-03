@@ -49,7 +49,7 @@ My vision on education (coming soon!)
 - [Building rhythm](https://www.tudelft.nl/en/covid/wellbeing#c658811) [2020-2021]
 - Bucket: a data platform for designers which facilitates data-driven design prototyping.
 - Responsible Internet of Things (IoT) Data Research [Funded by the Delft Design for Values institute, 2019-2020]
-- MK:Smart: an integrated innovation and support programme leveraging large-scale city data to drive economic growth ([www.mksmart.org](www.mksmart.org)). [funded by the Higher Education Funding Council for England; 1 Jan 2014 – 30 June 2017].
+- MK:Smart: an integrated innovation and support programme leveraging large-scale city data to drive economic growth ([www.mksmart.org](http://www.mksmart.org)). [funded by the Higher Education Funding Council for England; 1 Jan 2014 – 30 June 2017].
 - Energy Balanced Living: analyses longitudinal energy data from citizens to inform design of human-centred electricity Demand-Shifting methods in the context of domestic electricity generation [funded by E.On & INRIA France; 1 Jan 2012 – Dec 31 2014, Principal Investigator].
 
 ### Publication
@@ -70,7 +70,7 @@ My vision on education (coming soon!)
 
 ### Master Gradution
 
-[See list of Graduations](/activities/graduaction-projects)
+[See list of Graduations](/activities/graduation-projects/)
 
 
 ### Invited talks
