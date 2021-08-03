@@ -13,19 +13,22 @@ pin: false
 
 ## Context
 
-Network technologies rely on data to establish and maintain connections between devices. Therefore, there is a growing interest in leveraging this network data in research as it allows mapping the flow of people indoor and outdoor. For this purpose, TU Delft set up a GDPR-compliant platform offering access to its pseudonymised WiFi data for research purpose.
+Network technologies rely on data to establish and maintain connections between devices. Therefore, there is a growing interest in leveraging this network data in research as it allows mapping the flow of people indoor and outdoor. For this purpose, TU Delft set up a GDPR-compliant platform offering access to its `pseudonymised` WiFi Access Point data for research purpose.
 
-However, pseudonymised data has challenges for both researchers and data subjects.
-- The identity of data subjects can emerge by combining WiFi data with other datasets such as building and people's schedule;
+However, pseudonymised data has challenges for both researchers and data subjects. For example:
+
+- The identity of data subjects can emerge by combining WiFi Access Point data with other datasets such as building's and people's schedule;
 - Data subjects do not have control over their data to prevent sharing nor to request deletion (within the boundary of the law);
 - Researchers cannot access identified data, even with explicit informed consent, because they cannot reach out to data subjects;
 - Data subjects cannot donate data for a given research purpose.
 
-While supporting the pseudonymised approach, this research aim at strengthening it to smooth out these four tensions. Specifically, what mechanism can ensure the agency of data subjects over their WiFi data while offering researchers responsible and rich access to WiFi data?
+While supporting the pseudonymised approach, this research project aim at strengthening it to smooth out these four tensions. Specifically, it explores what mechanism can ensure the agency of data subjects over their WiFi Access Point data while offering researchers responsible and rich access to data?
 
 - Can data subject's devices identify themself in the TUD WiFi data?
 - Is such a mechanism empowering data subjects to share or restrict access to their data?
 
+
+## Project
 
 In this project, we propose to develop and test a Flutter mobile application. This application will
 
