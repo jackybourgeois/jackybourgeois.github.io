@@ -1,0 +1,38 @@
+
+#toc-wrapper {
+    border-left: 1px solid rgba(158, 158, 158, 0.17);
+    position: -webkit-sticky;
+    position: sticky;
+    top: 4rem;
+    transition: top 0.2s ease-in-out;
+    animation: fade-up 0.8s;
+    &.topbar-down {
+      top: 6rem;
+    }
+    > span {
+      @include panel-label;
+    }
+  }
+  
+  #toc li > a {
+    line-height: 1rem;
+
+    font-size: 13px;
+    font-weight: 500;
+    display: block;
+    padding: 4px 20px;
+  
+    &.nav-link:not(.active) {
+      color: inherit;
+    }
+  }
+  
+  /* Hide SideBar and TOC */
+  @media all and (max-width: 830px) {
+    .post-navigation {
+      padding-left: 0;
+      padding-right: 0;
+      margin-left: -.5rem;
+      margin-right: -.5rem;
+    }
+  }

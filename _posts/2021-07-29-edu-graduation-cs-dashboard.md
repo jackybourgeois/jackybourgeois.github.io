@@ -40,4 +40,4 @@ You are expected to design, implement and evaluate a web-based data donation das
 
 ## Contact
 
-For more information and application, please contact [Jacky Bourgeois](mailto:J.Bourgeois@tudelft.nl).
+For more information and application, please get in touch with [Jacky Bourgeois](mailto:J.Bourgeois@tudelft.nl).

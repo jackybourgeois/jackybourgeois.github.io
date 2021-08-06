@@ -50,4 +50,4 @@ In this project, we propose to develop and test a Flutter mobile application. Th
 
 ## Contact
 
-For more information and application, please contact [Jacky Bourgeois](mailto:J.Bourgeois@tudelft.nl).
+For more information and application, please get in touch with [Jacky Bourgeois](mailto:J.Bourgeois@tudelft.nl).

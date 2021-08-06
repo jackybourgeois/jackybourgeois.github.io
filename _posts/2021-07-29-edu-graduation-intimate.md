@@ -1,6 +1,6 @@
 ---
 title: "🚩 [Open] Exploring the Design Space of Menstrual Tracking Technologies"
-author: "Jacky Bourgeois"
+author: "Alejandra Gomez Ortega"
 date: 2021-07-29 09:00:00 +0000
 categories: [🚩 Vacancies]
 tags: [Master,IDE,📊Data Donation]
@@ -48,6 +48,6 @@ Designerly data donation is an approach for data collection in-the wild, where p
 
 ## Contact
 
-For more information and application, please contact [Alejandra Gomez Ortega](mailto:A.GomezOrtega@tudelft.nl).
+For more information and application, please get in touch with [Alejandra Gomez Ortega](mailto:A.GomezOrtega@tudelft.nl).
 
 [Link to PDF](/assets/pdf/graduation-project-intimate.pdf)
