@@ -131,7 +131,7 @@ Through education and graduation projects, we explore such a platform in the con
 ![Open Sharing Economy](/assets/img/open_sharing_economy.png){: width="200" height="300" }
 _A model for designing open sharing platforms_
 
-Behavioural data is the core of many data analytics processes and especially in sharing and circular economy models. Data analytics lead design and business decisions while remaining opaque and centralised from the user perspective. It leads to power imbalance with challenging choice to take part in the society or take care of one's privacy. In our [UbiComp'16 Paper](/posts/conf-ubicomp16/), we offered a perspective on Open Sharing Economy as an iterative and open design process.
+Behavioural data is the core of many data analytics processes and especially in sharing and circular economy models. Data analytics lead design and business decisions while remaining opaque and centralised from the user perspective. It leads to power imbalance with challenging choice to take part in the society or take care of one's privacy. In our [UbiComp'16 Paper](/posts/ubicomp16/), we offered a perspective on Open Sharing Economy as an iterative and open design process.
 
 _How can data-centric design communities nurture the development of open sharing platforms by blending ethical and collaborative practices with behavioural data in their design processes?_
 
