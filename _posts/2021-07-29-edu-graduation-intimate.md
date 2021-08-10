@@ -4,8 +4,7 @@ author: "Alejandra Gomez Ortega"
 date: 2021-07-29 09:00:00 +0000
 categories: [🚩 Vacancies]
 tags: [Master,IDE,📊Data Donation]
-math: true
-mermaid: true
+pdf: "graduation-project-intimate.pdf"
 pin: false
 image:
   src: /assets/img/grad-intimate-data.jpg
@@ -49,5 +48,3 @@ Designerly data donation is an approach for data collection in-the wild, where p
 ## Contact
 
 For more information and application, please get in touch with [Alejandra Gomez Ortega](mailto:A.GomezOrtega@tudelft.nl).
-
-[Link to PDF](/assets/pdf/graduation-project-intimate.pdf)

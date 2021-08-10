@@ -42,6 +42,98 @@ Education is a beautiful collective challenge, continuously pushing us to unders
 
 ## 🔭 Research
 
+I also stick to my core values when conducting scientific research: openness, inclusion and sustainability. I want **to empower designers and users to work together towards design solutions that address societal challenges.** While Human-Centred Design, Participatory Design, or Codesign foster collaborations between designers and users, I hypothesise that behavioural data is a critical facilitator in these design processes.
+
+![Data-Centric Design](/assets/img/dcd.png)
+_ethical and collaborative design activities with behavioural data_
+
+**Behavioural data** refers to data that represents the behaviour of individuals, groups and organisations. Such information is commonly used in the retail and web industry to analyse consumer behaviours and optimise businesses. In addition, the Internet of Things (IoT) captures behavioural data in the physical world. This data maps the dynamic behaviour of humans and objects in time and space. The term **dynamic** refers to asynchronous updates over time. Human data traditionally used in Design focuses on static information such as ergonomic or demographic data and qualitative data. Thus, the dynamic characteristic of behavioural data makes it novel in Design.
+
+>Imagine a world that empowers everyone to contribute to addressing societal challenges. A world where our society is an effective and responsible open laboratory.
+
+On the one hand, the foundation of Human-Centred Design lies in democratic processes and a strong focus on user needs. However, digitalisation makes data a central part of this process. It creates concerns, tensions and frictions between the design solution and the use of data. On the other hand, designers cannot ignore the power of behavioural data to inform, drive and evaluate their Design. But doing so ethically and meaningfully requires close collaboration with users. As experts of their data, users provide critical insights on the problem at hand.
+
+With **Data-Centric Design**, I aim to strengthen Human-Centred Design approaches while opening avenues for ethical use of behavioural data. I identify six types of activities -- the _verbs_ of Data-Centric Design in Human-Centred Design processes -- that leverage behavioural data to foster ethical and collaborative practices.
+
+![Six Data-Centric Design Activities in Human-Centred Design Processes](/assets/img/dcd-activities.svg)
+_Six Verbs for Data-Centric Design_
+
+In the following sections, I introduce the work of three PhD candidates conducting research to `Open` with **Data Donation**, `Connect` with **Remote Presence** and `Converse` with **Participatory Data Storytelling**. Then, I expand on initial work to `Project`, `Realise` and `Nurture` along avenues to explore.
+
+### `OPEN` Designerly Data Donation
+
+>**Imagine** a world where designers collaborate with thousands of people generating behavioural data. For example, designers want to support people who menstruate. They articulate their aim and a list of behavioural data to get insights (e.g. menstruation apps, smartwatches). People who menstruate might already look for support through an app or track their activities for various reasons. Value exchange ranges from receiving novel insights through personalised analysis of their data to contributing to the design of something that could change their life.
+
+![Designerly Data Donation](/assets/img/donations.jpg){: width="200" height="300" }
+_Photo by [cottonbro](https://www.pexels.com/@cottonbro) from [Pexels](https://www.pexels.com)_
+
+Behavioural data captures the **dynamic and intimate** of people's daily life. For designers, it is a **rich source of insights** as they search for clues to understand their design challenges and map the solution space. However, the use of personal data yields **ethical concerns**. Its use is often opaque for users, unfortunately, a data market in which they have no say.
+
+_How can designers use behavioural data as part of their design process in collaboration with people who understand and volunteer their data to a design cause?_
+
+To address this research question, [Alejandra Gomez Ortega](https://www.tudelft.nl/io/over-io/personen/gomez-ortega-a/){:target="_blank"} proposes the concept of **Designerly Data Donation** as a core proposition of her PhD research. We highlight the initial foundations for this framework in our [UbiComp'21 SensiBlend Workshop paper](https://www.sensiblend.io/). We announce data donation campaigns on our [Data Donation Platform]() and offer graduation opportunities to develop new campaigns such as [voice data donation](/posts/edu-graduation-voice-copy/) and [menstruation data donation](/posts/edu-graduation-intimate/).
+
+
+### `CONNECT` Designerly Remote Presence
+
+>**Imagine** a world where designers remotely immerse themselves into the behaviour of users. For example, how does it feel to be on the road all day, driving an electric cargo bike to deliver parcels? Designers receive timely, specific events by the behavioural data of users riding their bikes. They experience this presence through notifications or actions.
+
+![Designerly Remote Presence](/assets/img/goodnight_lamp.png){: width="200" height="300" }
+_The [GoodNight Lamp](http://goodnightlamp.com/) by Alexandra Deschamps-Sonsino_
+
+In this vision, the use of live data is explicit and move away from the traditional data science towards a critical need for designers: empathy. 
+
+_How can behavioural data help designers develop empathy through live connection to the (inaccessible) wild?_
+
+Traditional data exploration methods are asynchronous, taking place after data collection. In contrast, a remote presence is live, allowing for timely reflections and impressions as the behaviour gets captured. This highly intimate process takes place in continuous collaboration with the data subject.
+
+To realise this vision, [Wo Meyer](){:target="_blank"} proposes the concept of **Designerly Remote Presence**.
+
+### `CONVERSE` Participatory Data Storytelling
+
+>**Imagine** a world where designers and users collaborate to develop rich and detailed data stories. These stories blend the skills of designers with the domain expertise of users. On the one hand, users offer context-specific information that ensures an appropriate interpretation of data. On the other hand, designers develop an awareness of data opportunities and limitations within the design context. Later on, data stories form reference points helping designers to reflect on their design solutions. 
+
+![Participatory Data Storytelling](/assets/img/stories.jpg){: width="200" height="300" }
+_Photo by [Suzy Hazelwood](https://www.pexels.com/@suzyhazelwood) from [Pexels](https://www.pexels.com)_
+
+_How can participatory data storytelling effectively turn behavioural data into a driver of design insights?_
+
+To realise this vision, [Di Yan](){:target="_blank"} proposes the concept of **Participatory Data Storytelling**. It fosters collaborative analysis of data by engaging users in active conversation around data. This process makes behavioural data an accessible resource that balances the stakeholders' roles in the design process.
+
+### `PROJECT` Participatory Data Analysis
+
+>**Imagine** a world where designers can develop rich views of a situation along with projections of potential futures. Then, users can reflect on the impact of these possible futures and raise issues, corrections or validation. 
+
+![Participatory Data Analysis](/assets/img/project-pda.png){: width="200" height="300" }
+_projection of potential washing maching use to maximise energy consumption from solar Photovoltaics_
+
+Users learn new insights from unique, deep analyses of their data and predictions of potential futures: what they can do and act upon to achieve their goals. In the example above, I present to householders an analysis of washing machine use. The visualisation shows how they used their washing machine (in red) and how they could have used it _better_ (in green). In this context, _better_ means to maximise the electricity production of their solar Photovoltaics.
+
+_What are the necessary tools for designers to leverage data science and machine learning to offer users tangible projections and alternative paths?_
+
+### `REALISE` Open Design Platforms
+
+>**Imagine** a world where designers collaborate globally with many stakeholders through open-source live data prototypes. For example, a wheelchair augmented with sensors and cameras can support the design of innovative solutions at home, at work, on the go, for permanent and temporary users, etc. Building on and contributing to open-source hardware and software, the community generate valuable behavioural datasets while covering a wide range of context and challenges experienced by wheelchair users. 
+
+![Wheelchair Design Platform](/assets/img/wheelchair-camera.png){: width="200" height="300" }
+_wheelchair prototype equiped with sensors, running on open-source code_
+
+Behavioural data open the way to a whole range of live data prototypes. These prototypes become critical for the design of feasible, viable and desirable design solutions. However, they are expensive and challenging to develop. In isolation, they do not generate enough data to yield significant insights nor machine learning input. Thus, collaboration is critical to unlocking their possibilities. For example, Nokia Bell Labs, a leading research institute, developed eSense: an earbud with extra sensorial capabilities. They offered this platform to research teams globally. It led to extensive research leveraging this prototype for a wide range of purposes and contexts.
+
+_How can open design platforms facilitates the generation and use of behavioural data at a global scale through live data prototypes?_
+
+Through education and graduation projects, we explore such a platform in the context of wheelchairs. See our [WellComp Paper](/posts/conf-ubicomp-wellcomp/) and [GitHub repository](https://github.com/datacentricdesign/wheelchair-design-platform).
+
+### `NURTURE` Data-Centric Design Communities
+
+>**Imagine** a world where designers behavioural data drive an open sharing economy. Uber and AirBnB have their open-source, decentralised and transparent counterparts. Users can easily trace their data and the decisions made by the platform. They can contest but also engage in the development of the upcoming updates.
+
+![Open Sharing Economy](/assets/img/open_sharing_economy.png){: width="200" height="300" }
+_A model for designing open sharing platforms_
+
+Behavioural data is the core of many data analytics processes and especially in sharing and circular economy models. Data analytics lead design and business decisions while remaining opaque and centralised from the user perspective. It leads to power imbalance with challenging choice to take part in the society or take care of one's privacy. In our [UbiComp'16 Paper](/posts/conf-ubicomp16/), we offered a perspective on Open Sharing Economy as an iterative and open design process.
+
+_How can data-centric design communities nurture the development of open sharing platforms by blending ethical and collaborative practices with behavioural data in their design processes?_
 
 
 ## 🪣 Resumé
@@ -72,11 +164,11 @@ Education is a beautiful collective challenge, continuously pushing us to unders
 - [MK:Smart](https://www.mksmart.org/){:target="_blank"}, integrated innovation and support programme leveraging large-scale city data to drive economic growth. [funded by the Higher Education Funding Council for England; 1 Jan 2014 – 30 June 2017].
 - [Energy Balanced Living](/posts/thesis/), longitudinal energy data from citizens to inform the Design of human-centred electricity Demand-Shifting methods in the context of domestic electricity generation [funded by E.On & INRIA France; 1 Jan 2012 – Dec 31 2014, Principal Investigator].
 
-### Publication
+### Publications
 
 [See list of Publications](/activities/publications)
 
-### Teaching
+### Teaching Activities
 
 - 2022 Design/Coordination - `BSc 1st year` Digital Product Development ([IOB2-2](https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=59932){:target="_blank"})
 - 2021 Design/Coordination – `BSc 1st year` Software-Based Products ([IO1075](https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=56545){:target="_blank"})
@@ -88,7 +180,7 @@ Education is a beautiful collective challenge, continuously pushing us to unders
 - 2017-2020 Lecture/Coach - `BSc Elective` Software ([IO3040](https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=56442){:target="_blank"})
 - 2018-2019 Expert - `MSc` Context and Conceptualisation ([ID4216](https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=47351){:target="_blank"})
 
-### Master Graduation
+### Master Graduations
 
 [See list of Graduations](/activities/graduation-projects/)
 

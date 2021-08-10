@@ -48,20 +48,20 @@ social:
   email: j.bourgeois@tudelft.nl             # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/jackybourgeois      # change to your twitter homepage
+    - https://twitter.com/JackyBourgeois      # change to your twitter homepage
     - https://github.com/jackybourgeois       # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://www.linkedin.com/in/jackybourgeois   # - https://www.linkedin.com/in/username
 
-google_site_verification: google_meta_tag_verification # change to your verification string
+# google_site_verification: google_meta_tag_verification # change to your verification string
 
-google_analytics:
-  id: ''              # fill in your Google Analytics ID
+# google_analytics:
+  # id: ''              # fill in your Google Analytics ID
   # Google Analytics pageviews report settings
-  pv:
-    proxy_endpoint:   # fill in the Google Analytics superProxy endpoint of Google App Engine
-    cache_path:       # the local PV cache data, friendly to visitors from GFW region
+  # pv:
+    # proxy_endpoint:   # fill in the Google Analytics superProxy endpoint of Google App Engine
+    # cache_path:       # the local PV cache data, friendly to visitors from GFW region
 
 # Prefer color scheme setting.
 #
@@ -84,7 +84,7 @@ theme_mode:   # [light|dark]
 img_cdn: ''
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://d2k0ddhflgrk1i.cloudfront.net/_processed_/d/b/csm_LSH_7968_400x400_dce2e922ec.jpg
+avatar: /assets/img/jacky_bourgeois.jpg
 
 # boolean type, the global switch for ToC in posts.
 toc: true

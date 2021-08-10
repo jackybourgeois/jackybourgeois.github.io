@@ -4,8 +4,7 @@ author: "Gerd Kortuem, Janet van der Linden, Blaine Price, **Jacky Bourgeois**"
 date: 2012-10-15 19:05:00 +0000
 categories: [Research,📜 Publications]
 tags: [📗Conference,🎯Digital Future, Energy,Participatory Data Analysis, Solar Panel]
-math: true
-mermaid: true
+pdf: "kortuem_de_2012.pdf"
 pin: false
 ---
 

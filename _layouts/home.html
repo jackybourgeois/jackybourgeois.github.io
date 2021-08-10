@@ -97,6 +97,12 @@ layout: page
             {% endfor %}
           </span>
         {% endif %}
+
+        {% if post.pdf %}
+        <a href="{{ site.baseurl }}/assets/pdf/{{ post.pdf }}" style="text-decoration: none;" target="_blank" rel="noopener noreferrer">
+          <i class="fa fa-download" aria-hidden="true"></i>PDF
+        </a>
+        {% endif %}
       </div>
 
       {% if post.pin %}
