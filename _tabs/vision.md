@@ -4,6 +4,7 @@ icon: fas fa-compass
 order: 1
 enable_toc: true
 toc: true
+description: "With Data-Centric Design, I aim to strengthen Human-Centred Design approaches while opening avenues for ethical use of behavioural data. I identify six types of activities -- the _verbs_ of Data-Centric Design in Human-Centred Design processes -- that leverage behavioural data to foster ethical and collaborative practices."
 ---
 
 ![Data-Centric Design Narrative](/assets/img/dcd-narrative.png){: .right width="200" height="300" }
