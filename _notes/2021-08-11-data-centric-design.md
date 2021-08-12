@@ -11,3 +11,6 @@ In the same vein as [[buur-pd-2000]] with video data, there is a need to illustr
 Data-Centric Design is a philosophy.
 
 Data-Centric Design brings data to the fore, an explicit and critical element of the design process rather than the incidental method's side effect. It invites the stakeholders to collaborate around these multiple perspectives. Thus, it is a support for human conversations. In that sense, it connects to Value-Sensitive Design and the involvement of all stakeholders.
+
+
+Data-Centric Design focuses on the designing _with_ data, unpacking its use and role throughout the design process [[speed-drs-2016]].

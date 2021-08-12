@@ -20,4 +20,4 @@ What can DCD do for participatory design?
 Open, with data donation, is a way to promote cooperation
 Connect and Converse promote the cooperative curiosity
 Project and Realise is about cooperative creativity
-Open, Project, Realise, Nuture is about empowerment
+Open, Project, Realise, Nurture is about empowerment
