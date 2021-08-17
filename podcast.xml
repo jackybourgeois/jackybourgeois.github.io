@@ -10,13 +10,13 @@
 		<link>{{ site.url }}{{ site.baseurl }}</link>
 		<language>{{ site.lang }}</language>
         <copyright>&#xA9; {{ site.time | date: "%Y" }} {{ site.title }}</copyright>
-		<itunes:subtitle>{{ site.subtitle | xml_escape }}</itunes:subtitle>
-        <itunes:author>{{ site.author }}</itunes:author>
+		<itunes:subtitle>{{ site.tagline | xml_escape }}</itunes:subtitle>
+        <itunes:author>{{ site.social.name }}</itunes:author>
 		<itunes:summary>{{ site.description | xml_escape }}</itunes:summary>
         <description>{{ site.description | xml_escape }}</description>
-		<webMaster>{{ site.social.email }} ({{ site.author }})</webMaster>
+		<webMaster>{{ site.social.email }} ({{ site.social.name }})</webMaster>
         <itunes:owner>
-			<itunes:name>{{ site.author }}</itunes:name>
+			<itunes:name>{{ site.social.name }}</itunes:name>
 			<itunes:email>{{ site.social.email }}</itunes:email>
 		</itunes:owner>
         <itunes:image href="{{ site.url }}{{ site.baseurl }}/assets/images/jacky.jpg" />
@@ -27,8 +27,8 @@
 {% if post.podcast %}
         <item>
             <title>{{ post.title | xml_escape }}</title>
-            <itunes:author>{{ site.author }}</itunes:author>
-            <itunes:subtitle>{{ site.title | xml_escape }}: {{ post.title | xml_escape }}</itunes:subtitle>
+            <itunes:author>{{ site.social.name }}</itunes:author>
+            <itunes:subtitle>{{ site.tagline | xml_escape }}: {{ post.title | xml_escape }}</itunes:subtitle>
             <itunes:summary>{{ post.summary | xml_escape }}</itunes:summary>
             <itunes:image href="{{ site.url }}/assets/images/jacky.jpg" />
             <enclosure url="{{ post.podcast }}" length="{{ post.length }}" type="audio/ogg"/>
