@@ -14,10 +14,10 @@
         <itunes:author>{{ site.author }}</itunes:author>
 		<itunes:summary>{{ site.description | xml_escape }}</itunes:summary>
         <description>{{ site.description | xml_escape }}</description>
-		<webMaster>{{ site.email }} ({{ site.author }})</webMaster>
+		<webMaster>{{ site.social.email }} ({{ site.author }})</webMaster>
         <itunes:owner>
 			<itunes:name>{{ site.author }}</itunes:name>
-			<itunes:email>{{ site.email }}</itunes:email>
+			<itunes:email>{{ site.social.email }}</itunes:email>
 		</itunes:owner>
         <itunes:image href="{{ site.url }}{{ site.baseurl }}/assets/images/jacky.jpg" />
         <itunes:category text="Education" />

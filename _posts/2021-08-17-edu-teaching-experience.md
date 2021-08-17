@@ -8,13 +8,13 @@ pin: false
 summary: The summer is closing, and courses are getting ready for the new academic year. I'm Jacky Bourgeois, assistant professor at the TU Delft. Today I'll share 10 teaching blocks I've experienced while piloting a course earlier this year.
 notes: >-
     You can find the resources mentioned in the podcast: the [videos and Miro Board](/posts/edu-io1075-material/) from IO1075, the [Computational Thinking](/posts/code/) GitHub-hosted website, the tips from Pieter Jan Stappers in [Lecture like a YouTuber](https://www.tudelft.nl/en/2021/io/february/lecture-like-a-youtuber) and the code for the [Crowd Quiz](https://github.com/datacentricdesign/crowdsourced-quiz). The podcast theme music by [Transistor.fm](https://transistor.fm/?via=music). Learn [how to start a podcast](https://transistor.fm/how-to-start-a-podcast/?via=music) here.
-duration: 20:45
-explicit: no
-block: no
-length: 16008226
-voices: Jacky Bourgeois
-keywords: TU Delft, IDE, Design, Education, Experience
-podcast: https://archive.org/download/jackybourgeois-podcast-teaching-experience/podcast-teaching-experience.ogg
+duration: "20:45"
+explicit: "no"
+block: "no"
+length: "16008226"
+voices: "Jacky Bourgeois"
+keywords: "TU Delft, IDE, Design, Education, Experience"
+podcast: "https://archive.org/download/jackybourgeois-podcast-teaching-experience/podcast-teaching-experience.ogg"
 image:
   src: /assets/img/teaching-experience.png
   width: 850
