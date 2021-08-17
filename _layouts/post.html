@@ -56,6 +56,32 @@ layout: default
         {% endif %}
         {% endif %}
 
+        {% if page.podcast %}
+        <div style="text-align:center;margin:30px">
+          <div>
+            <audio controls>
+              <source src="{{ page.podcast }}" type="audio/ogg">
+            </audio>
+          </div>
+          <div>
+            <a href="{{ site.baseurl }}{{ page.podcast }}" download="{{ page.title }}" style="text-decoration: none;"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fa fa-download" aria-hidden="true"></i>Download Podcast Episode
+            </a>
+            <a href="{{ site.baseurl }}/podcast.xml" style="text-decoration: none;" target="_blank"
+              rel="noopener noreferrer">
+              <i class="fa fa-rss" aria-hidden="true"></i>Podcast RSS
+            </a>
+          </div>
+        </div>
+
+
+        {% endif %}
+
+        {% if page.notes %}
+          <em>{{ page.notes | markdownify }}</em>
+        {% endif %}
+
         {{ content }}
 
         {% if page.pdf %}

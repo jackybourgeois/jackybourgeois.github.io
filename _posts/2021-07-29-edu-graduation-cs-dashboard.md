@@ -38,6 +38,8 @@ You are expected to design, implement and evaluate a web-based data donation das
 
 {% reference sukumar-chi-2021 %}
 
+{% reference lovei-dis-companion-2020 %}
+
 ## Contact
 
 For more information and application, please get in touch with [Jacky Bourgeois](mailto:J.Bourgeois@tudelft.nl).
