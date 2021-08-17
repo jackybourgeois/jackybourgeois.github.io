@@ -22,6 +22,12 @@
         <itunes:image href="{{ site.url }}{{ site.baseurl }}/assets/images/jacky.jpg" />
         <itunes:category text="Education" />
         <itunes:explicit>no</itunes:explicit>
+
+
+        <googleplay:owner>{{ site.social.email }}</googleplay:owner>
+        <googleplay:author>{{ site.social.name }}</googleplay:author>
+        <googleplay:image href="{{ site.url }}{{ site.baseurl }}/assets/images/jacky.jpg"/>
+
 		
 {% for post in site.posts %}
 {% if post.podcast %}
