@@ -72,7 +72,7 @@ Behavioural data captures the **dynamic and intimate** of people's daily life. F
 
 _How can designers use behavioural data as part of their design process in collaboration with people who understand and volunteer their data to a design cause?_
 
-To address this research question, [Alejandra Gomez Ortega](https://www.tudelft.nl/io/over-io/personen/gomez-ortega-a/){:target="_blank"} proposes the concept of **Designerly Data Donation** as a core proposition of her PhD research. We highlight the initial foundations for this framework in our [UbiComp'21 SensiBlend Workshop paper](https://www.sensiblend.io/). We announce data donation campaigns on our [Data Donation Platform]() and offer graduation opportunities to develop new campaigns such as [voice data donation](/posts/edu-graduation-voice-copy/) and [menstruation data donation](/posts/edu-graduation-intimate/).
+To address this research question, [Alejandra Gomez Ortega](https://www.tudelft.nl/io/over-io/personen/gomez-ortega-a/){:target="_blank"} proposes the concept of **Designerly Data Donation** as a core proposition of her PhD research. We highlight the initial foundations for this framework in our [UbiComp'21 SensiBlend Workshop paper](https://www.sensiblend.io/). We announce data donation campaigns on our [Data Donation Platform]() and offer graduation opportunities to develop new campaigns such as [voice data donation](/posts/edu-graduation-voice/) and [menstruation data donation](/posts/edu-graduation-intimate/).
 
 
 ### `CONNECT` Designerly Remote Presence
