@@ -1,5 +1,5 @@
 ---
-title: "🚩 [Close] Exploring the Design Space of Menstrual Tracking Technologies"
+title: "🚩 [Closed] Exploring the Design Space of Menstrual Tracking Technologies"
 author: "Alejandra Gomez Ortega"
 date: 2021-07-29 09:00:00 +0000
 categories: [🚩 Vacancies]

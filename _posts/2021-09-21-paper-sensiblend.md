@@ -1,5 +1,5 @@
 ---
-title: "Towards Designerly Data Donation"
+title: "📜 Towards Designerly Data Donation"
 author: "Alejandra Gomez Ortega, **Jacky Bourgeois**, Gerd Kortuem"
 date: 2021-09-21 17:05:00 +0000
 categories: [Research,📜 Publications]

@@ -1,5 +1,5 @@
 ---
-title: "🚩 [Close] Donor's Badges: Promoting Designerly Data Donation through Behaviour Sharing"
+title: "🚩 [Closed] Donor's Badges: Promoting Designerly Data Donation through Behaviour Sharing"
 author: "Alejandra Gomez Ortega"
 date: 2021-07-29 09:00:00 +0000
 categories: [🚩 Vacancies]

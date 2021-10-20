@@ -1,5 +1,5 @@
 ---
-title: "🚩 [Close] Public Installation for Voice Data Donation on Campus"
+title: "🚩 [Closed] Public Installation for Voice Data Donation on Campus"
 author: "Alejandra Gomez Ortega"
 date: 2021-07-29 09:00:00 +0000
 categories: [🚩 Vacancies]
