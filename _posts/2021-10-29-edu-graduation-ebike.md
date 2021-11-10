@@ -31,6 +31,10 @@ The technical nature of this project fits best IPD master students. Additionally
 
 ## Literature to Get Started
 
+* https://mechmotum.github.io/research/bicycle-data-logger.html
+* https://ieeexplore.ieee.org/document/8319221
+* https://core.ac.uk/download/pdf/204422768.pdf
+* https://www.alexandria.unisg.ch/236048/1/1726_Implementing%20the%20connected%20e-bike-final.pdf
 
 ## Contact
 
