@@ -1,0 +1,6 @@
+User-agent: *
+
+Disallow: /norobots/
+Disallow: /notes/
+
+Sitemap: https://jackybourgeois.com/sitemap.xml

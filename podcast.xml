@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xml:lang="en">
+
+    <channel>
+		<atom:link href="https://jackybourgeois.com/podcast.xml" rel="self" type="application/rss+xml" />
+		<title>Jacky Bourgeois</title>
+		<link>https://jackybourgeois.com</link>
+		<language>en</language>
+        <copyright>&#xA9; 2021 Jacky Bourgeois</copyright>
+		<itunes:subtitle>Data-Centric Design</itunes:subtitle>
+        <itunes:author>Jacky Bourgeois</itunes:author>
+		<itunes:summary>I develop technological tools to support the use of machine data by designers. I am an assistant professor of Data-Centric Design with the Department of Sustainable Design Engineering (SDE) of the Faculty of Industrial Design Engineering (IDE).</itunes:summary>
+        <description>I develop technological tools to support the use of machine data by designers. I am an assistant professor of Data-Centric Design with the Department of Sustainable Design Engineering (SDE) of the Faculty of Industrial Design Engineering (IDE).</description>
+		<webMaster>j.bourgeois@tudelft.nl (Jacky Bourgeois)</webMaster>
+        <itunes:owner>
+			<itunes:name>Jacky Bourgeois</itunes:name>
+			<itunes:email>j.bourgeois@tudelft.nl</itunes:email>
+		</itunes:owner>
+        <itunes:image href="https://jackybourgeois.com/assets/images/jacky.jpg" />
+        <itunes:category text="Education" />
+        <itunes:explicit>no</itunes:explicit>
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        <item>
+            <title>🪵 10 Building Blocks from Teaching Experience</title>
+            <itunes:author>Jacky Bourgeois</itunes:author>
+            <itunes:subtitle>Data-Centric Design: 🪵 10 Building Blocks from Teaching Experience</itunes:subtitle>
+            <itunes:summary>The summer is closing, and courses are getting ready for the new academic year. I'm Jacky Bourgeois, assistant professor at the TU Delft. Today I'll share 10 teaching blocks I've experienced while piloting a course earlier this year.</itunes:summary>
+            <itunes:image href="https://jackybourgeois.com/assets/images/jacky.jpg" />
+            <enclosure url="https://archive.org/download/jackybourgeois-podcast-teaching-experience/podcast-teaching-experience.ogg" length="16008226" type="audio/ogg"/>
+            <guid isPermaLink="true">https://jackybourgeois.com/posts/edu-teaching-experience/</guid>
+            <pubDate>Tue, 17 Aug 2021 08:00:00 +0200</pubDate>
+            <itunes:duration>20:45</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <description>The summer is closing, and courses are getting ready for the new academic year. I'm Jacky Bourgeois, assistant professor at the TU Delft. Today I'll share 10 teaching blocks I've experienced while piloting a course earlier this year.  You can find the resources mentioned in the podcast: the [videos and Miro Board](/posts/edu-io1075-material/) from IO1075, the [Computational Thinking](/posts/code/) GitHub-hosted website, the tips from Pieter Jan Stappers in [Lecture like a YouTuber](https://www.tudelft.nl/en/2021/io/february/lecture-like-a-youtuber) and the code for the [Crowd Quiz](https://github.com/datacentricdesign/crowdsourced-quiz). The podcast theme music by [Transistor.fm](https://transistor.fm/?via=music). Learn [how to start a podcast](https://transistor.fm/how-to-start-a-podcast/?via=music) here. Complete show notes are available at https://jackybourgeois.com/posts/edu-teaching-experience/.</description>
+            <itunes:keywords>TU Delft, IDE, Design, Education, Experience</itunes:keywords>
+            <itunes:block>no</itunes:block>
+		</item>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	</channel>
+</rss>
