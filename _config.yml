@@ -23,8 +23,8 @@ author:
   # Biographic information
   avatar           : "jacky.jpg"
   name             : "dr.ir. Jacky Bourgeois"
-  pronouns         : "He/his"  
-  bio              : "I am Assistant Professor of <b>Data-Centric Design</b> with the Department of <a href=\"https://www.tudelft.nl/en/ide/about-ide/departments/design-engineering/\">Sustainable Design Engineering</a> (SDE) of the Faculty of <a href=\"https://www.tudelft.nl/en/ide/\">Industrial Design Engineering</a> (IDE) of the <a href=\"https://www.tudelft.nl/\">Delft University of Technology</a>."
+  pronouns         : # "He/his"  
+  bio              : "I am Assistant Professor of <b>Data-Centric Design</b> with the Department of <a target=\"_blank\" href=\"https://www.tudelft.nl/en/ide/about-ide/departments/design-engineering/\">Sustainable Design Engineering</a> (SDE) of the Faculty of <a target=\"_blank\" href=\"https://www.tudelft.nl/en/ide/\">Industrial Design Engineering</a> (IDE) of the <a target=\"_blank\" href=\"https://www.tudelft.nl/\">Delft University of Technology</a>."
   location         : "Office B3-270<br>Landbergstraat 15<br>2628 CE Delft, NL"
   employer         : "TU Delft"
   uri              : # URL
