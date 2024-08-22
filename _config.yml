@@ -22,9 +22,9 @@ repository               : "jackybourgeois/jackybourgeois.github.io"
 author:
   # Biographic information
   avatar           : "jacky.jpg"
-  name             : "Jacky Bourgeois"
+  name             : "dr.ir. Jacky Bourgeois"
   pronouns         : "He/his"  
-  bio              : "I am Assistant Professor of **Data-Centric Design** with the [Department of Sustainable Design Engineering](https://www.tudelft.nl/en/ide/about-ide/departments/design-engineering/) (SDE) of the [Faculty of Industrial Design Engineering](https://www.tudelft.nl/en/ide/) (IDE) of the [Delft University of Technology](https://www.tudelft.nl/) 🧐."
+  bio              : "I am Assistant Professor of <b>Data-Centric Design</b> with the Department of <a href="https://www.tudelft.nl/en/ide/about-ide/departments/design-engineering/">Sustainable Design Engineering</a> (SDE) of the Faculty of <a href="https://www.tudelft.nl/en/ide/">Industrial Design Engineering</a> (IDE) of the <a href="https://www.tudelft.nl/">Delft University of Technology</a>."
   location         : "Office B3-270<br>Landbergstraat 15<br>2628 CE Delft, NL"
   employer         : "TU Delft"
   uri              : # URL
