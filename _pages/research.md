@@ -7,3 +7,4 @@ redirect_from:
   - /research.html
 ---
 
+Something about research!

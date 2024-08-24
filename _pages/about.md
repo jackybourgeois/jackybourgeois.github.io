@@ -7,3 +7,4 @@ redirect_from:
   - /about.html
 ---
 
+I'm passionate about

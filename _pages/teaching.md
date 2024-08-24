@@ -7,3 +7,4 @@ redirect_from:
   - /teaching.html
 ---
 
+Something about teaching!
