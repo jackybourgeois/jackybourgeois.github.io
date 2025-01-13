@@ -17,4 +17,4 @@ I believe in the **[data humanism](https://giorgialupi.com/data-humanism-my-mani
 
 I do so through a **participatory approach** as I believe people's data must be used by, with, and for people who generate it. This might be researchers with participants or users among themselves. I look for collaborations that could likely lead to reciprocal exchanges of values and reflexivity.
 
-Thus, I develop **concepts, tools, and methods** to facilitate the participatory use of existing behavioral data such as sensitive and collaborative data donation, data commons, data intimacy or participatory sensemaking of personal data.
+Thus, I develop **concepts, tools, methods and education material** to facilitate the participatory use of existing behavioral data such as sensitive and collaborative data donation, data commons, data intimacy or participatory sensemaking of personal data.
