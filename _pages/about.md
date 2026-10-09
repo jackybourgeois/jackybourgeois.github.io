@@ -26,8 +26,8 @@ I work at the intersection of Human-Computer Interaction, Human-Data Interaction
 ## Current Research Projects
 
 - **[D3C](https://www.tudelft.nl/io/over-io/afdelingen/sustainable-design-engineering/kind/projects-labs/d3c)** (NWO, 2025–2027): a data commons for cooperative consultancy, with Design & Publics, the Afrikaanderwijk Coöperatie and the Municipality of Rotterdam. Citizens act as local researchers who govern and benefit from their own data.
-- **[PROMISE](https://www.erasmusmc-rdo.nl/project/patient-lead-remote-oncological-care/)** (KWF, 2023–2027): putting people with cancer in the lead of remote monitoring after treatment, with Erasmus MC, LUMC, the Netherlands Cancer Institute, Microsoft and LifeSignals. We develop participatory methods for personal data vaults, for and with patients.
-- **[Auditory Footprints](https://www.tudelft.nl/io/over-io/afdelingen/sustainable-design-engineering/kind/projects-labs/auditory-footprints)** (NWO, 2025–2031): soundscape assessment in neonatal and paediatric intensive care, with Erasmus MC, Sorama and IRCAM. Nurses at Erasmus MC Sophia Children's Hospital investigate and act on the sound environment that contributes to fatigue on their ward.
+- **[PROMISE](https://www.erasmusmc-rdo.nl/project/patient-lead-remote-oncological-care/)** (KWF, 2023–2027): putting people with cancer in the lead of remote monitoring after treatment, together with Erasmus MC. We develop participatory methods for personal data vaults, for and with patients.
+- **[Auditory Footprints](https://www.tudelft.nl/io/over-io/afdelingen/sustainable-design-engineering/kind/projects-labs/auditory-footprints)** (NWO, 2025–2031): soundscape assessment in neonatal and paediatric intensive care, with Sorama, IRCAM and the University of Venice. Nurses at Erasmus MC Sophia Children's Hospital investigate and act on the sound environment that contributes to fatigue on their ward.
 
 ## Teaching
 
